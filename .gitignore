@@ -1,0 +1,10 @@
+target/
+.aws-sam/
+node_modules/
+package.json
+package-lock.json
+seed-aws.js
+*.class
+*.jar
+.idea/
+*.iml

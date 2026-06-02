@@ -1,0 +1,12 @@
+{
+  "version": "2.0",
+  "routeKey": "POST /ventas",
+  "rawPath": "/ventas",
+  "requestContext": {
+    "http": {
+      "method": "POST",
+      "path": "/ventas"
+    }
+  },
+  "body": "{\"items\":[],\"medioPago\":\"efectivo\"}"
+}

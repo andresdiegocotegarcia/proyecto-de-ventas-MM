@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /productos",
+  "rawPath": "/productos",
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/productos"
+    }
+  }
+}
